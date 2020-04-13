@@ -9,7 +9,7 @@ html, body {
 body {
     font-size: 13pt;
     font-family: monospace;
-    color: white;
+    color: #c2c2c2;
     background-color: black;
 }
 #container {
@@ -89,7 +89,7 @@ body {
     z-index: 9;
     top: 0;
     left: 0;
-    background-color: #e09f14;
+    background-color: #009b64;
     opacity: 0.8;
     overflow-x: hidden;
     transition: 0.3s;
